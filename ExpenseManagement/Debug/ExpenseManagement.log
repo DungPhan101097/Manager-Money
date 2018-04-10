@@ -1,0 +1,102 @@
+﻿  stdafx.cpp
+  OverloadNumberException.cpp
+  Observable.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\observable.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  NullComponentException.cpp
+  NegativeNumberException.cpp
+  Main.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.h(16): warning C4005: 'MAX_LEN': macro redefinition
+  e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.h(18): note: see previous definition of 'MAX_LEN'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(561): warning C4101: 'nCurSelIndex': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(645): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(676): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(680): warning C4101: 'e0': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(685): warning C4101: 'e1': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(690): warning C4101: 'e2': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\main.cpp(695): warning C4101: 'e3': unreferenced local variable
+  FormStatisticalLogic.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatisticallogic.cpp(55): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatisticallogic.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatisticallogic.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  FormStatistical.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(71): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(149): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(168): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(218): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(264): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formstatistical.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  FormCircleChartLogic.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(21): warning C4101: 'percent': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(42): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(65): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(86): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(119): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechartlogic.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  FormCircleChart.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(100): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(114): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(120): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(121): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(131): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(132): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(141): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(142): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(151): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(152): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(161): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(162): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(171): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(172): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(209): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(288): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(294): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(295): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(305): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(306): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(315): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(316): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(325): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(326): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(335): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(336): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(345): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formcirclechart.cpp(346): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FormAddExpenseLogic.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpenselogic.cpp(47): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  FormAddExpense.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.cpp(113): warning C4101: 'e0': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.cpp(118): warning C4101: 'e1': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.cpp(123): warning C4101: 'e2': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.cpp(128): warning C4101: 'e3': unreferenced local variable
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\formaddexpense.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  ExpenseManagement.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(90): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(166): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(195): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(215): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(230): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(246): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(255): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(267): warning C4018: '<': signed/unsigned mismatch
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\1512062_midterm_personalfinance\source\expensemanagement\expensemanagement.cpp(279): warning C4018: '<': signed/unsigned mismatch
+  Expense.cpp
+  CastedStringToNumberException.cpp
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.rh(1434): warning RC4005: 'IDCANCEL' : redefinition
+  
+  ExpenseManagement.vcxproj -> E:\LapTrinh\TAILIEU_2017\LTWIN_TDQUANG_2017\Exercise\ExpenseManagement\1512062_MidTerm_PersonalFinance\Source\Debug\ExpenseManagement.exe
+  ExpenseManagement.vcxproj -> E:\LapTrinh\TAILIEU_2017\LTWIN_TDQUANG_2017\Exercise\ExpenseManagement\1512062_MidTerm_PersonalFinance\Source\Debug\ExpenseManagement.pdb (Partial PDB)

@@ -1,0 +1,104 @@
+﻿  stdafx.cpp
+  CastedStringToNumberException.cpp
+  Expense.cpp
+  ExpenseManagement.cpp
+ExpenseManagement.cpp(90): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(113): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(166): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(195): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(215): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(230): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(246): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(255): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(267): warning C4018: '<': signed/unsigned mismatch
+ExpenseManagement.cpp(279): warning C4018: '<': signed/unsigned mismatch
+  FormAddExpense.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+FormAddExpense.cpp(113): warning C4101: 'e0': unreferenced local variable
+FormAddExpense.cpp(118): warning C4101: 'e1': unreferenced local variable
+FormAddExpense.cpp(123): warning C4101: 'e2': unreferenced local variable
+FormAddExpense.cpp(128): warning C4101: 'e3': unreferenced local variable
+FormAddExpense.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  FormAddExpenseLogic.cpp
+FormAddExpenseLogic.cpp(47): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  FormCircleChart.cpp
+FormCircleChart.cpp(100): warning C4018: '<': signed/unsigned mismatch
+FormCircleChart.cpp(114): warning C4018: '<': signed/unsigned mismatch
+FormCircleChart.cpp(120): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(121): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(131): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(132): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(141): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(142): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(151): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(152): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(161): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(162): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(171): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(172): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(209): warning C4018: '<': signed/unsigned mismatch
+FormCircleChart.cpp(288): warning C4018: '<': signed/unsigned mismatch
+FormCircleChart.cpp(294): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(295): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(305): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(306): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(315): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(316): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(325): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(326): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(335): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(336): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+FormCircleChart.cpp(345): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+FormCircleChart.cpp(346): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FormCircleChartLogic.cpp
+FormCircleChartLogic.cpp(21): warning C4101: 'percent': unreferenced local variable
+FormCircleChartLogic.cpp(42): warning C4018: '<': signed/unsigned mismatch
+FormCircleChartLogic.cpp(65): warning C4018: '<': signed/unsigned mismatch
+FormCircleChartLogic.cpp(86): warning C4018: '<': signed/unsigned mismatch
+FormCircleChartLogic.cpp(98): warning C4018: '<': signed/unsigned mismatch
+FormCircleChartLogic.cpp(119): warning C4018: '<': signed/unsigned mismatch
+FormCircleChartLogic.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  FormStatistical.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+FormStatistical.cpp(38): warning C4018: '<': signed/unsigned mismatch
+FormStatistical.cpp(71): warning C4018: '<': signed/unsigned mismatch
+FormStatistical.cpp(149): warning C4018: '<': signed/unsigned mismatch
+FormStatistical.cpp(168): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FormStatistical.cpp(176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FormStatistical.cpp(181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FormStatistical.cpp(218): warning C4018: '<': signed/unsigned mismatch
+FormStatistical.cpp(264): warning C4018: '<': signed/unsigned mismatch
+FormStatistical.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  FormStatisticalLogic.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+FormStatisticalLogic.cpp(55): warning C4018: '<': signed/unsigned mismatch
+FormStatisticalLogic.cpp(70): warning C4018: '<': signed/unsigned mismatch
+FormStatisticalLogic.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\resource.h(31): warning C4005: 'IDCANCEL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.h(10803): note: see previous definition of 'IDCANCEL'
+e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\FormStatistical.h(16): warning C4005: 'MAX_LEN': macro redefinition
+  e:\laptrinh\tailieu_2017\ltwin_tdquang_2017\exercise\expensemanagement\expensemanagement\FormAddExpense.h(18): note: see previous definition of 'MAX_LEN'
+Main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(561): warning C4101: 'nCurSelIndex': unreferenced local variable
+Main.cpp(645): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(676): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+Main.cpp(680): warning C4101: 'e0': unreferenced local variable
+Main.cpp(685): warning C4101: 'e1': unreferenced local variable
+Main.cpp(690): warning C4101: 'e2': unreferenced local variable
+Main.cpp(695): warning C4101: 'e3': unreferenced local variable
+  NegativeNumberException.cpp
+  NullComponentException.cpp
+  Observable.cpp
+Observable.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  OverloadNumberException.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winuser.rh(1434): warning RC4005: 'IDCANCEL' : redefinition
+  
+  Generating code
+  All 999 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ExpenseManagement.vcxproj -> E:\LapTrinh\TAILIEU_2017\LTWIN_TDQUANG_2017\Exercise\ExpenseManagement\Release\ExpenseManagement.exe
+  ExpenseManagement.vcxproj -> E:\LapTrinh\TAILIEU_2017\LTWIN_TDQUANG_2017\Exercise\ExpenseManagement\Release\ExpenseManagement.pdb (Full PDB)
